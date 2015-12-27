@@ -17,7 +17,7 @@ baseurl: ""
 title: Dale
 
 # Short description of your site
-description: A site dedicated to living up to its name!
+description: this site is about you know who
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "test1"
   About Me: "aboutme"
 #  Author's home: "http://deanattali.com"
   
