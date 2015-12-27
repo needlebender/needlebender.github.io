@@ -17,7 +17,7 @@ baseurl: ""
 title: Dale
 
 # Short description of your site
-description: this site is about you know who
+description: This site ia about me
 
 # --- Navigation bar options --- #
 
@@ -38,21 +38,21 @@ navbar-links:
 author:
   name: Dale
   email: "dale@needlebender.com"
-  facebook: yourname  # eg. dale
-  github: yourname    # eg. dale
-  twitter: yourname   # eg. @dale
-  linkedin: yourlink  # eg. "pub/dale-020293"
-  stackoverflow: yourlink  # eg. "3943160/daattali"
+# facebook: yourname  # eg. dale
+# github: yourname    # eg. dale
+# twitter: yourname   # eg. @dale
+# linkedin: yourlink  # eg. "pub/dale-020293"
+# stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
-  facebook: false
+#  rss: false
+#  facebook: false
   email: true
-  twitter: true
-  github: true
-  linkedin: true
-  stackoverflow: false
+#  twitter: true
+#  github: true
+#  linkedin: true
+#  stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
