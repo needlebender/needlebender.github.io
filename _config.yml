@@ -27,7 +27,6 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Dale: ""
   Home: ""
   About Me: "aboutme"
 #  Author's home: "http://deanattali.com"
@@ -38,7 +37,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Dale
-  email: "dale@needlebender.com"
+# email: "dale@needlebender.com"
 # facebook: yourname  # eg. dale
 # github: yourname    # eg. dale
 # twitter: yourname   # eg. @dale
@@ -49,7 +48,7 @@ author:
 footer-links-active:
 #  rss: false
 #  facebook: false
-  email: true
+#  email: true
 #  twitter: true
 #  github: true
 #  linkedin: true
