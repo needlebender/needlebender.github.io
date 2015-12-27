@@ -23,7 +23,7 @@ description: This site is about Dale
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img src="http://i.telegraph.co.uk/multimedia/archive/02117/Baby-dinosaurs-cop_2117742b.jpg"
+avatar: "img src="http://i.telegraph.co.uk/multimedia/archive/02117/Baby-dinosaurs-cop_2117742b.jpg"
 
 # List of links in the navigation bar
 navbar-links:
